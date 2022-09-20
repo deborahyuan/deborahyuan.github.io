@@ -24,14 +24,14 @@ I went into BrowserHistory1 having watched the video on why and what a WOD sough
 **BrowserHistory2**
 
 1st attempt: DNF
-2nd attempt: ~8 minutes - Rx
+<br> 2nd attempt: ~8 minutes - Rx
 
 In comparison, I think that I had a much more difficult time when it came to BrowserHistory2. The WOD built off of the page we just made in BrowserHistory1, with a twist. This WOD used what we learned previously about using Google Fonts. Before attempting this WOD, I felt like I understood the instructions well enough. However, when I attempted to do the WOD, I ran into a lot of issues. For example, I forgot how to reference Google Fonts, specifically Oswald and Open Sans. Another issue that I ran into, was I forgot how to make the images align to the left – I later found out that this was done by using “float:” in the style sheet. Since I couldn’t figure out the Google Fonts issue, I ended up DNFing and watching the professor’s screencast. After seeing how the professor linked Google Fonts, I reattempted the WOD and My time was under 10 minutes (8 minutes and 15 seconds)., meaning I did better than average.
 
 **BrowserHistory3**
 
 1st attempt: DNF
-2nd attempt: ~9 minutes - Rx
+<br> 2nd attempt: ~9 minutes - Rx
 
 Lastly, for BrowserHistory3, I also DNFed one time. In my opinion, this was the most complicated WOD to do thus far. Although I had read the instructions beforehand, I had no idea how to put the browser paragraph contents into three separate columns. Despite trying for 20 minutes, I couldn’t figure it out. After attempting myself and failing, I then watched the professor do it. I found the screencast to be extremely helpful, but I did have to watch certain parts of the video again to figure out the exact steps. Combing through the video and following along in VS code helped a lot with retaining the different steps to creating the columns. Afterward, I redid the WOD and ended up with a really great time (9 minutes and 26 seconds)  that was better than average.
 
