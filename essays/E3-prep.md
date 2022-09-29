@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "UI Basics Learnings"
+title: "Preparing For WODs"
 # All dates must be YYYY-MM-DD format!
-date: 2022-09-18
+date: 2022-09-28
 published: true
 labels:
   - ITM 352
@@ -15,13 +15,13 @@ labels:
 
 WODs are designed to help us get familiar and comfortable with certain skills through repetition and timeliness. These 3 particular WODs, BrowserHistory1, BrowserHistory2, and BrowserHistory3 are designed to increase efficiency in creating a basic website. BrowserHistory1 focuses on setting up a website’s content, complete with hyperlinks and images. BrowserHistory2 focuses a bit more on styling the website, incorporating colors and fonts. Lastly, BrowserHistory3 focuses on formatting the site (into columns) and creating a navigation bar and designing the user interface.
 
-**BrowserHistory1**
+**BrowserHistory6**
 
 1st attempt: ~18 minutes - Av
 
 I went into BrowserHistory1 having watched the video on why and what a WOD sought to achieve by using an Athletic Approach. My strategy for approaching WODs was to read the instructions first and google everything I didn’t know or remember how to do beforehand. I thought that would be a better strategy than “peeking” at the answers provided by the instructor’s sample screencast. For example, prior to attempting BrowserHistory1, I looked up how to hyperlink both external websites and internal sections because I had forgotten. By combing through the instructions beforehand and making sure I understood what the WOD was asking for, I was able to go through the first WOD the first time, achieving an Average time (18 minutes and 3 seconds. I did have some issues along the way, like forgetting how to put an image in an html, but overall, I did fine. Since we had to hyperlink something in each browser’s paragraph, I found that finding a proper noun, and then linking it to its/their Wikipedia page was the fastest method.I then watched the instructor’s screencast, and saw that I pretty much did exactly what the professor did, but all on my own, which made me feel quite accomplished.
 
-**BrowserHistory2**
+**SmartPhoneProducts1 with Variables**
 
 1st attempt: DNF
 <br> 2nd attempt: ~8 minutes - Rx
