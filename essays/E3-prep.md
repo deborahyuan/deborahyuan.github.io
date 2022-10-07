@@ -33,6 +33,20 @@ Honestly, I found SmartPhoneProducts1 with Variables to be the easiest WOD out o
 
 I felt as if I learned the most from this WOD out of the three. Invoice1 covered some concepts that we didn't really go over in Labs, like making dynamic tables. I did make a lot of mistakes, and I ended up getting frustrated, especially when it came to keeping my code organized. I believe that the instructions that told us to comment on what each section was helped a lot, and I was able to focus and search through the code a lot better as a result. Overall, I encountered the greatest difficulty when it came to working on the table. Most of my issues were fixed through trial and error, but I think that I lacked efficency. If I did this WOD over again, I'm sure my time would improve significantly.
 
+**Invoice2**
+
+1st attempt: ~15 minutes - Av
+
+I found this WOD to be quite easy, as it utilized skills that I felt I sufficiently understood after completing our Lab activities. In this WOD, we practiced making an invoice, where the value of the shipping would change depending on the dollar amount ordered. I found this to be a quite relaxing WOD in general. It built off of our previous WOD, but also covered using if statements. I was able to test that my code worked for a variety of values and was very satisfied with my results. I didn't really run into any issues, and I think if I did the WOD over again, I would probably be able to have an Rx time.
+
+
+**SmartPhoneProducts2**
+
+1st attempt: ~20 minutes - sD
+
+During this WOD, I initially had some difficulty with remembering how to do eval() and write a for loop. In addition, I kept running into many different small errors, for example i=1 instead of i=0 in the for loop, or having a ; where I wasn't supposed to have one. I think for the semicolon issue in particular, I was trying to figure out what went wrong for over 6 minutes. I also couldn't even tell whether my change in code actually helped resolve the error or not, because another error still existed. During this WOD, I heavily utilized the console to catch my errors. The final product was a SmartPhone Store that had "automated" listings by using a for loop.
+
+
 **Advice/Conclusion**
 
 Overall, I felt that this round of WODs were much easier compared to the first three. I feel as if my ability to process how to use coding language to produce a result has improved significantly since the start of this semester. My biggest learnings from this set of WODs is to pay attention to detail. I think that when your code doesn't end up working, it can be frustrating, and when one is frustrated, it's easy to miss the errors. I also learned how important it is to keep your code commented and organized -- this is something I'm looking to implement in my future coding sesesions.
