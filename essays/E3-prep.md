@@ -13,7 +13,7 @@ labels:
 
 **Summary**
 
-In this essay, I will be detailing my experiences with the three WODs I have done since the last technical essay. In BrowserHistory6, the WOD covered creating buttons that were clickable and also had a reaction when moused over; this WOD built off of the webpage made in BrowserHistory3, a previous WOD. SmartPhoneProducts1 with Variables went over the usage of variables rather than hardcoding information, building off of SmartPhoneProducts1 that we did in a Lab earlier in the semester. Lastly, Invoice1 had extensive usage of variables, using variables to store information about prices, quantities, tax rate and tax values, subtotals, and more. 
+In this essay, I will be detailing my experiences with the three WODs I have done since the last technical essay. In BrowserHistory6, the WOD covered creating buttons that were clickable and also had a reaction when moused over; this WOD built off of the webpage made in BrowserHistory3, a previous WOD. SmartPhoneProducts1 with Variables went over the usage of variables rather than hardcoding information, building off of SmartPhoneProducts1 that we did in a Lab earlier in the semester. Invoice1 had extensive usage of variables, using variables to store information about prices, quantities, tax rate and tax values, subtotals, and more. Invoice2 and SmartPhoneProducts2 expanded on these WODs, with the introduction of if else statements and for loops.
 
 **BrowserHistory6**
 
