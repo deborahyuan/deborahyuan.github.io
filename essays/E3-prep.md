@@ -42,7 +42,7 @@ I found this WOD to be quite easy, as it utilized skills that I felt I sufficien
 
 **SmartPhoneProducts2**
 
-1st attempt: ~20 minutes - sD
+1st attempt: ~20 minutes - Sd
 
 During this WOD, I initially had some difficulty with remembering how to do eval() and write a for loop. In addition, I kept running into many different small errors, for example i=1 instead of i=0 in the for loop, or having a ; where I wasn't supposed to have one. I think for the semicolon issue in particular, I was trying to figure out what went wrong for over 6 minutes. I also couldn't even tell whether my change in code actually helped resolve the error or not, because another error still existed. During this WOD, I heavily utilized the console to catch my errors. The final product was a SmartPhone Store that had "automated" listings by using a for loop.
 
