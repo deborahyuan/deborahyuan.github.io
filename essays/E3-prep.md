@@ -37,7 +37,7 @@ I felt as if I learned the most from this WOD out of the three. Invoice1 covered
 
 1st attempt: ~15 minutes - Av
 
-I found this WOD to be quite easy, as it utilized skills that I felt I sufficiently understood after completing our Lab activities. In this WOD, we practiced making an invoice, where the value of the shipping would change depending on the dollar amount ordered. I found this to be a quite relaxing WOD in general. It built off of our previous WOD, but also covered using if statements. I was able to test that my code worked for a variety of values and was very satisfied with my results. I didn't really run into any issues, and I think if I did the WOD over again, I would probably be able to have an Rx time.
+I found this WOD to be quite easy, as it utilized skills that I felt I sufficiently understood after completing our Lab activities. In this WOD, we practiced making an invoice, where the value of the shipping would change depending on the dollar amount ordered. I found this to be a quite relaxing WOD in general. It built off of our previous WOD, but also covered using if statements. I was able to test that my code worked for a variety of values and was very satisfied with my results. I didn't really run into any issues besides forgetting how to write else if (I wrote it as else), and I think if I did the WOD over again, I would probably be able to have an Rx time.
 
 
 **SmartPhoneProducts2**
