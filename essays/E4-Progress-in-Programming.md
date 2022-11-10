@@ -10,10 +10,6 @@ labels:
   - Learnings
 ---
 
-**Summary**
-
-Respond in the order listed (include this outline) to the following statements. Be specific and give examples to support why you agree or disagree with the statement. Be honest! You are not graded on saying things you believe the instructor wants to hear. Rather you will be graded on the quality of your responses. If you have criticism of the class or instructor or suggestions that you believe will help, these are excellent things to state here. Of course insightful statements about things that work well for you are also important.
-
 **My programming skills have greatly improved in the following ways:**
 
 I agree with that my programming skills have improved greatly. I started this class knowing little to nothing about coding, but after Assignment 1, I feel much more accomplished and confident in my ability to tackle coding problems and problem solve/debug. In addition, I feel that my ability to process information and break steps down has also improved, in part to the logical nature of coding. 
