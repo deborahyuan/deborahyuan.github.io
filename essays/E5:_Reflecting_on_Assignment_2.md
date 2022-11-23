@@ -12,7 +12,7 @@ labels:
 
 **Provide a brief introduction to the assignment along with a link to this page for further details**
 
-In this particular assignment, I will be reflecting on Assignment 2 and my learnings. Assignment 2 itself was a continuation of Assignment 1, which involved adding additional functionality to our e-commerce website, such as account creation, login/registration, account editing, and rewriting information in JSON files. This was a big step up from our previous assignment. To learn more about the reflection questions that I will be covering in this essay, check [this](https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2_retrospective.html) out. Otherwise, to learn more about Assignment 2, go [here](https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2.html).
+In this particular assignment, I will be reflecting on Assignment 2 and my learnings. Assignment 2 itself was a continuation of Assignment 1, which involved adding additional functionality to our e-commerce website, such as account creation, login/registration, account editing, and rewriting information in JSON files. This was a big step up from our previous assignment. To learn more about the reflection questions that I will be covering in this essay, check [this][https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2_retrospective.html] out. Otherwise, to learn more about Assignment 2, go [here][https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2.html].
 
 **What did you learn from this assignment?**
 
