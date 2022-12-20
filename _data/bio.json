@@ -1,0 +1,46 @@
+{
+   "basics":{
+      "name":"Deborah Yuan",
+      "label":"Student",
+      "picture":"https://github.com/deborahyuan.png",
+      "email":"dyuan@hawaii.edu",
+      "website":"https://deborahyuan.github.io",
+      "summary":"I am pursuing a BBA in Marketing, International Business, and Management Information Systems from the Shidler College of Business and a Minor in Chinese at the University of Hawai'i. I expect to graduate in Summer, 2023.",
+      "location":{
+         "city":"Honolulu",
+         "countryCode":"USA",
+         "region":"Hawaii"
+      },
+      "profiles":[
+         {
+            "network":"github",
+            "username":"deborahyuan",
+            "url":"http://github.com/deborahyuan"
+         },
+         {
+            "network":"linkedin",
+            "username":"deborahyuan",
+            "url":"https://www.linkedin.com/in/deborahyuan/"
+         },
+         {
+            "network":"instagram",
+            "username":"deborahyuann",
+            "url":"https://www.instagram.com/deborahyuann/"
+         }
+      ]
+   },
+   "interests":[
+      {
+         "name":"UI Design"
+      },
+      {
+         "name":"Graphic Desigh"
+      },
+      {
+         "name":"Product Design"
+      },
+      {
+         "name":"Marketing Research"
+      }
+   ]
+}
